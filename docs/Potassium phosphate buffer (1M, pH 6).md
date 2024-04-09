@@ -10,6 +10,6 @@
     | $KH_2PO_4$ | 34.025g |
     | $KOH$ | 4.4975 |
     | $dH_2O$ | up to 500 mL |
-2. Autoclave to 
+2. Autoclave to sterilize.
 
 **NOTE:** original recipe suggests 1 L volume.
